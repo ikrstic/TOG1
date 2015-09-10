@@ -8,7 +8,7 @@
       <MiddleName />
       <LastName>Manastir</LastName>
       <Sex>XII vek</Sex>
-      <PhotoFilename>http://ikrstic.github.io/TOG1/manastir_gracanica_2.JPG</PhotoFilename>
+      <PhotoFilename>http://ikrstic.github.io/TOG1/manastir_gracanica_2.png</PhotoFilename>
       <GradePointAverage>0</GradePointAverage>
     </Student>
     <Student>
@@ -17,7 +17,7 @@
       <MiddleName>Svete</MiddleName> 
       <LastName>Crkva</LastName>
       <Sex>XII vek</Sex>
-      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svete_nedelje_g.JPG</PhotoFilename>
+      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svete_nedelje_g.png</PhotoFilename>
       <GradePointAverage>0</GradePointAverage>
     </Student>
     <Student>
@@ -26,7 +26,7 @@
       <MiddleName>Svete</MiddleName>
       <LastName>Crkva</LastName>
       <Sex>XII vek</Sex>
-      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svete_paraskeve_lapljeselo.JPG</PhotoFilename>
+      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svete_paraskeve_lapljeselo.png</PhotoFilename>
       <GradePointAverage>0</GradePointAverage>
     </Student>
     <Student>
@@ -35,7 +35,7 @@
       <MiddleName>Svete</MiddleName>
       <LastName>Crkva</LastName>
       <Sex>XII vek</Sex>
-      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svete_trojice_skulanevo.JPG</PhotoFilename>
+      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svete_trojice_skulanevo.png</PhotoFilename>
       <GradePointAverage>0</GradePointAverage>
     </Student>
     <Student>
@@ -44,7 +44,7 @@
       <MiddleName>Svetog</MiddleName>
       <LastName>Crkva</LastName>
       <Sex>XII vek</Sex>
-      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svetog_dimitrija_susica_2.JPG</PhotoFilename>
+      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svetog_dimitrija_susica_2.png</PhotoFilename>
       <GradePointAverage>0</GradePointAverage>
     </Student>
     <Student>
@@ -53,7 +53,7 @@
       <MiddleName>Svetog</MiddleName>
       <LastName>Crkva</LastName>
       <Sex>XII vek</Sex>
-      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svetog_gligorija_blagoslova_livadje.JPG</PhotoFilename>
+      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svetog_gligorija_blagoslova_livadje.png</PhotoFilename>
       <GradePointAverage>0</GradePointAverage>
     </Student>
     <Student>
@@ -62,7 +62,7 @@
       <MiddleName>Svetog</MiddleName>
       <LastName>Crkva</LastName>
       <Sex>XII vek</Sex>
-      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svetog_kneza_lazara_d.JPG</PhotoFilename>
+      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svetog_kneza_lazara_d.png</PhotoFilename>
       <GradePointAverage>0</GradePointAverage>
     </Student>
     <Student>
@@ -71,7 +71,7 @@
       <MiddleName>Svetog</MiddleName>
       <LastName>Crkva</LastName>
       <Sex>XII vek</Sex>
-      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svetog_pantelejmona_lepina.JPG</PhotoFilename>
+      <PhotoFilename>http://ikrstic.github.io/TOG1/crkva_svetog_pantelejmona_lepina.png</PhotoFilename>
       <GradePointAverage>0</GradePointAverage>
     </Student>                                                
   </Students>
