@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StudentBody xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <School>TO Gracanice</School>
+  <Students>
+    <Student>
+      <FullName>Manastir Gracanica</FullName>
+      <FirstName>Gracanica</FirstName>
+      <MiddleName />
+      <LastName>Manastir</LastName>
+      <Sex>XII vek</Sex>
+      <PhotoFilename>http://ikrstic.github.io/TOG/TOGRes/manastir_gracanica_2.jpg</PhotoFilename>
+      <GradePointAverage>0</GradePointAverage>
+    </Student>
+    <Student>
+      <FullName>Crkva Svete Nedelje</FullName>
+      <FirstName>Nedelje</FirstName>
+      <MiddleName>Svete</MiddleName> 
+      <LastName>Crkva</LastName>
+      <Sex>XII vek</Sex>
+      <PhotoFilename>http://ikrstic.github.io/TOG/TOGRes/crkva_svete_nedelje_g.jpg</PhotoFilename>
+      <GradePointAverage>0</GradePointAverage>
+    </Student>
+    <Student>
+      <FullName>Crkva Svete Paraskeve</FullName>
+      <FirstName>Paraskeve</FirstName>
+      <MiddleName>Svete</MiddleName>
+      <LastName>Crkva</LastName>
+      <Sex>XII vek</Sex>
+      <PhotoFilename>http://ikrstic.github.io/TOG/TOGRes/crkva_svete_paraskeve_lapljeselo.jpg</PhotoFilename>
+      <GradePointAverage>0</GradePointAverage>
+    </Student>
+    <Student>
+      <FullName>Crkva Svete Trojice</FullName>
+      <FirstName>Trojice</FirstName>
+      <MiddleName>Svete</MiddleName>
+      <LastName>Crkva</LastName>
+      <Sex>XII vek</Sex>
+      <PhotoFilename>http://ikrstic.github.io/TOG/TOGRes/crkva_svete_trojice_skulanevo.jpg</PhotoFilename>
+      <GradePointAverage>0</GradePointAverage>
+    </Student>
+    <Student>
+      <FullName>Crkva Svetog Dimitrija</FullName>
+      <FirstName>Dimitrija</FirstName>
+      <MiddleName>Svetog</MiddleName>
+      <LastName>Crkva</LastName>
+      <Sex>XII vek</Sex>
+      <PhotoFilename>http://ikrstic.github.io/TOG/TOGRes/crkva_svetog_dimitrija_susica_2.jpg</PhotoFilename>
+      <GradePointAverage>0</GradePointAverage>
+    </Student>
+    <Student>
+      <FullName>Crkva Svetog Gligorija Blagoslova</FullName>
+      <FirstName>Gligorija Blagoslova</FirstName>
+      <MiddleName>Svetog</MiddleName>
+      <LastName>Crkva</LastName>
+      <Sex>XII vek</Sex>
+      <PhotoFilename>http://ikrstic.github.io/TOG/TOGRes/crkva_svetog_gligorija_blagoslova_livadje.jpg</PhotoFilename>
+      <GradePointAverage>0</GradePointAverage>
+    </Student>
+    <Student>
+      <FullName>Crkva Svetog Kneza Lazara</FullName>
+      <FirstName>Kneza Lazara</FirstName>
+      <MiddleName>Svetog</MiddleName>
+      <LastName>Crkva</LastName>
+      <Sex>XII vek</Sex>
+      <PhotoFilename>http://ikrstic.github.io/TOG/TOGRes/crkva_svetog_kneza_lazara_d.jpg</PhotoFilename>
+      <GradePointAverage>0</GradePointAverage>
+    </Student>
+    <Student>
+      <FullName>Crkva Svetog Pantelejmona</FullName>
+      <FirstName>Pantelejmona</FirstName>
+      <MiddleName>Svetog</MiddleName>
+      <LastName>Crkva</LastName>
+      <Sex>XII vek</Sex>
+      <PhotoFilename>http://ikrstic.github.io/TOG/TOGRes/crkva_svetog_pantelejmona_lepina.jpg</PhotoFilename>
+      <GradePointAverage>0</GradePointAverage>
+    </Student>                                                
+  </Students>
+</StudentBody>
