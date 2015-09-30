@@ -1,18 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-- StudentBody = TogApp
-- School = Tog
-- Students = Ponuda
-- Student = Destinacija
-- FullName = Naziv
-- FirstName = DetaljanOpis
-- MiddleName = Lokacija
-- LastName = Koordinate
-- Sex = Izgradjeno
-- PhotoFilename = Slika
-- GradePointAverage = Slika2
--->
-
 <TogApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Tog>TO Gracanice</Tog>
   <Ponuda>
