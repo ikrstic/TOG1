@@ -1,6 +1,5 @@
 {
-	"Ponuda": {
-			"Destinacija": [
+			"Destinacije": [
 				{
 					"ID": "1",
 					"Naziv": "Манастир Грачаница",
@@ -83,4 +82,3 @@
 				}
 			]
 		}
-	}
