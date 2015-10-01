@@ -8,8 +8,8 @@
       "Lokacija":"Грачаница",
       "Koordinate":"42.5984511, 21.1931838",
       "Izgradjeno":"XIV vek",
-      "Slika":"http://ikrstic.github.io/TOG1/manastir_gracanica_2_small.jpg",
-      "Slika2":"http://ikrstic.github.io/TOG1/manastir_gracanica_2.jpg"
+      "Slika":"http://ikrstic.github.io/TOG1/manastir_gracanica_2_small.png",
+      "Slika2":"http://ikrstic.github.io/TOG1/manastir_gracanica_2.png"
     },
     {
       "ID":"2",
@@ -19,8 +19,8 @@
       "Lokacija":"Горња Гуштерица",
       "Koordinate":"42.5500256, 21.2078380",
       "Izgradjeno":"XX vek",
-      "Slika":"http://ikrstic.github.io/TOG1/crkva_svete_nedelje_g_small.jpg",
-      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svete_nedelje_g.jpg"
+      "Slika":"http://ikrstic.github.io/TOG1/crkva_svete_nedelje_g_small.png",
+      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svete_nedelje_g.png"
     },
     {
       "ID":"3",
@@ -30,8 +30,8 @@
       "Lokacija":"Лапље селo",
       "Koordinate":"42.5962926, 21.1318692",
       "Izgradjeno":"XX vek",
-      "Slika":"http://ikrstic.github.io/TOG1/crkva_svete_paraskeve_lapljeselo_small.jpg",
-      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svete_paraskeve_lapljeselo.jpg"
+      "Slika":"http://ikrstic.github.io/TOG1/crkva_svete_paraskeve_lapljeselo_small.png",
+      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svete_paraskeve_lapljeselo.png"
     },
     {
       "ID":"4",
@@ -41,8 +41,8 @@
       "Lokacija":"Скуланево",
       "Koordinate":"42.5630670, 21.0796639",
       "Izgradjeno":"XX vek",
-      "Slika":"http://ikrstic.github.io/TOG1/crkva_svete_trojice_skulanevo_small.jpg",
-      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svete_trojice_skulanevo.jpg"
+      "Slika":"http://ikrstic.github.io/TOG1/crkva_svete_trojice_skulanevo_small.png",
+      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svete_trojice_skulanevo.png"
     },
     {
       "ID":"5",
@@ -52,8 +52,8 @@
       "Lokacija":"Сушицa",
       "Koordinate":"42.5779987, 21.2166983",
       "Izgradjeno":"XIII vek",
-      "Slika":"http://ikrstic.github.io/TOG1/crkva_svetog_dimitrija_susica_2_small.jpg",
-      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svetog_dimitrija_susica_2.jpg"
+      "Slika":"http://ikrstic.github.io/TOG1/crkva_svetog_dimitrija_susica_2_small.png",
+      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svetog_dimitrija_susica_2.png"
     },
     {
       "ID":"6",
@@ -63,8 +63,8 @@
       "Lokacija":"Ливађе",
       "Koordinate":"42.5602061, 21.1675155",
       "Izgradjeno":"XX vek",
-      "Slika":"http://ikrstic.github.io/TOG1/crkva_svetog_gligorija_blagoslova_livadje_small.jpg",
-      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svetog_gligorija_blagoslova_livadje.jpg"
+      "Slika":"http://ikrstic.github.io/TOG1/crkva_svetog_gligorija_blagoslova_livadje_small.png",
+      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svetog_gligorija_blagoslova_livadje.png"
     },
     {
       "ID":"7",
@@ -74,8 +74,8 @@
       "Lokacija":"Доња Гуштерица",
       "Koordinate":"42.5455407, 21.1812453",
       "Izgradjeno":"XX vek",
-      "Slika":"http://ikrstic.github.io/TOG1/crkva_svetog_kneza_lazara_d_small.jpg",
-      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svetog_kneza_lazara_d.jpg"
+      "Slika":"http://ikrstic.github.io/TOG1/crkva_svetog_kneza_lazara_d_small.png",
+      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svetog_kneza_lazara_d.png"
     },
     {
       "ID":"8",
@@ -85,8 +85,8 @@
       "Lokacija":"Лепина",
       "Koordinate":"42.5685307, 21.0703648",
       "Izgradjeno":"XX vek",
-      "Slika":"http://ikrstic.github.io/TOG1/crkva_svetog_pantelejmona_lepina_small.jpg",
-      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svetog_pantelejmona_lepina.jpg"
+      "Slika":"http://ikrstic.github.io/TOG1/crkva_svetog_pantelejmona_lepina_small.png",
+      "Slika2":"http://ikrstic.github.io/TOG1/crkva_svetog_pantelejmona_lepina.png"
     }
   ]
 }
